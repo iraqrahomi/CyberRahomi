@@ -8,8 +8,8 @@
 ---
 
 ### 🔧 Tools I work with:
-- 🕵️ Sherlock, Maigret, Spiderfoot
-- 🐚 Bash, Python, Linux
+- 🕵️ Sherlock, Maigret, Spiderfoot  
+- 🐚 Bash, Python, Linux  
 - 📦 Custom scripts: `RISK.sh`, `intel-track.sh`
 
 ---
